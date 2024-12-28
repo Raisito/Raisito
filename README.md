@@ -47,7 +47,7 @@
 
 ## 📊 Estadísticas  
 
-### **Habilidades en porcentajes** 📈  
+### **Habilidades** 📈  
 ```yaml
 Python: 65%  
 JavaScript: 80%  
