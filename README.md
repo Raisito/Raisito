@@ -1,6 +1,6 @@
 # 💻 ¡Hola, soy **Ray**! 👋
 
-Desarrollador Web Full‑Stack apasionado por construir experiencias digitales modernas, intuitivas y de alto rendimiento. Me encanta aprender, crear y resolver problemas mediante código. 🚀
+Desarrollador Full‑Stack apasionado por construir experiencias digitales modernas, intuitivas y de alto rendimiento. Me encanta aprender, crear y resolver problemas mediante código. 🚀
 
 ---
 
@@ -8,12 +8,10 @@ Desarrollador Web Full‑Stack apasionado por construir experiencias digitales m
 
 - **Nombre:** Ray  
 - **Ubicación:** Barcelona, España  
-- **Formación:** CFGS Desarrollo de Aplicaciones Web (DAW)  
 - **Actualmente:** Centrado en **proyectos personales** y **disponible para colaboraciones o freelance**  
 - **Áreas de interés:**  
   - Desarrollo Web (Frontend y Backend)  
   - Inteligencia Artificial  
-  - Ciencia de Datos  
   - UX/UI y diseño de experiencias  
 
 ---
@@ -34,28 +32,6 @@ Git • Docker • Vagrant • VS Code • Figma • Postman • GitHub • GitL
 
 - **Desarrollador Full‑Stack** (Personal / Freelance)  
   Creación de apps web completas con React, Django/Node.js, integrando bases de datos y despliegue en plataformas como Vercel o Railway.
-
-- **Proyecto Académico: CFGS DAW**  
-  Formación sólida en desarrollo de aplicaciones web, UX/UI, bases de datos y metodologías ágiles.
-
----
-
-## 🚀 Proyectos destacados
-
-- **DevMania**  
-  Juego de memoria con React + TypeScript + Tailwind. Backend para almacenar puntuaciones via API.  
-
-- **Memory Game**  
-  Similar, pero con Next.js y UI mejorada.  
-
-- **Tetris**  
-  Recreación del clásico con React y Bootstrap, usando LocalStorage.  
-
-- **Registro de Incidencias**  
-  Panel admin con autenticación, edición y comentarios, sobre Supabase.  
-
-- **Vimeo Clone**  
-  Maquetación responsiva, animaciones CSS, ideal para practicar layout.
 
 ---
 
